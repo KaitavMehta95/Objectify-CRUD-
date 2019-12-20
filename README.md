@@ -1,4 +1,4 @@
-# Objectify-CRUD-
+# Objectify-CRUD
 Tools: Google App Engine, Cloud Datastore, Maven, Java 1.8, 
 
 A basic CRUD application to learn GCP, cloud datastore, Mave, Java and Objectify.
